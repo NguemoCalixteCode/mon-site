@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.full-with-div{
+    width: 100;
+}
+.homeHeader{
+    width: 1320px;
+}
+.menu{
+    text-align: right;
+    margin-left: 0;
+}
+.section{
+    width: 1320px;
+    height: 800px;
+    margin-left: 0;
+}
+.name{
+    text-align: left;
+}
+
+.btn{
+    margin-left: 10px;
+    width: 120px;
+}
+
+.section1{
+    text-align: justify;
+    padding-left: 50px;
+}
+
+.profil{
+    width: 200px;
+    height: 260px;
+}
+.section2{
+    text-align: justify;
+    padding-top: 18px;
+}
+.loisir{
+    width: 500px;
+    height: 500px;
+}
